@@ -1,0 +1,39 @@
+body {
+    font-family: "Raleway", sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+    .male {
+        color: #12b5e7;
+    }
+    .female {
+        color: #ff89c6;
+    }
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    p {
+        text-align: center;
+    }
+    .buttons {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin: 50px 0;
+    }
+}
+
+.results {
+    width: 90vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    .robot {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+    }
+ }
