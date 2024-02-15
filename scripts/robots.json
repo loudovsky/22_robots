@@ -1,7 +1,7 @@
 { "robots" : [{
         "first_name": "Marji",
         "last_name": "Bransden",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/autempariaturunde.jpg?size=200x300&set=set1",
         "description": "Persevering attitude-oriented productivity",
         "type": "Indonesian",
@@ -10,7 +10,7 @@
     {
         "first_name": "Vivi",
         "last_name": "Alvy",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/teneturaspernaturanimi.jpg?size=200x300&set=set1",
         "description": "Up-sized contextually-based frame",
         "type": "Uruguayan",
@@ -19,7 +19,7 @@
     {
         "first_name": "Lon",
         "last_name": "Pybus",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/repellendusquaeratdolorum.jpg?size=200x300&set=set1",
         "description": "Cross-group transitional project",
         "type": "Aleut",
@@ -28,7 +28,7 @@
     {
         "first_name": "Rockey",
         "last_name": "Merrgen",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/verofacilisitaque.jpg?size=200x300&set=set1",
         "description": "Extended system-worthy Graphic Interface",
         "type": "Navajo",
@@ -37,7 +37,7 @@
     {
         "first_name": "Glyn",
         "last_name": "Sabbatier",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/molestiaeomnisut.jpg?size=200x300&set=set1",
         "description": "Networked object-oriented projection",
         "type": "Houma",
@@ -46,7 +46,7 @@
     {
         "first_name": "Guenna",
         "last_name": "Tonge",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/solutaeaquesimilique.jpg?size=200x300&set=set1",
         "description": "Profit-focused responsive application",
         "type": "Asian",
@@ -55,7 +55,7 @@
     {
         "first_name": "Jere",
         "last_name": "Radborne",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/rationeetrepellendus.jpg?size=200x300&set=set1",
         "description": "Inverse secondary artificial intelligence",
         "type": "Japanese",
@@ -64,7 +64,7 @@
     {
         "first_name": "Krishnah",
         "last_name": "Combes",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/harumrecusandaenatus.jpg?size=200x300&set=set1",
         "description": "Extended zero defect customer loyalty",
         "type": "Alaskan Athabascan",
@@ -73,7 +73,7 @@
     {
         "first_name": "Vin",
         "last_name": "Kleis",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/pariaturoptionihil.jpg?size=200x300&set=set1",
         "description": "Polarised discrete success",
         "type": "Hmong",
@@ -82,7 +82,7 @@
     {
         "first_name": "Malachi",
         "last_name": "Howgego",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/suntillumest.jpg?size=200x300&set=set1",
         "description": "Streamlined transitional productivity",
         "type": "Native Hawaiian and Other Pacific Islander (NHPI)",
@@ -91,7 +91,7 @@
     {
         "first_name": "Elroy",
         "last_name": "Saladin",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/enimeligendiquis.jpg?size=200x300&set=set1",
         "description": "Business-focused scalable time-frame",
         "type": "Alaskan Athabascan",
@@ -100,7 +100,7 @@
     {
         "first_name": "Staci",
         "last_name": "Vigietti",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/idlaboriosamducimus.jpg?size=200x300&set=set1",
         "description": "Reduced well-modulated workforce",
         "type": "Chamorro",
@@ -109,7 +109,7 @@
     {
         "first_name": "Ignaz",
         "last_name": "Caldecot",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/quamnecessitatibusrepudiandae.jpg?size=200x300&set=set1",
         "description": "Pre-emptive reciprocal synergy",
         "type": "Osage",
@@ -118,7 +118,7 @@
     {
         "first_name": "Gregorius",
         "last_name": "Renne",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/asperioreshiceos.jpg?size=200x300&set=set1",
         "description": "Total methodical Graphic Interface",
         "type": "Dominican (Dominican Republic)",
@@ -127,7 +127,7 @@
     {
         "first_name": "Sherrie",
         "last_name": "Kidds",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/estnostruminventore.jpg?size=200x300&set=set1",
         "description": "Reduced 6th generation archive",
         "type": "Black or African American",
@@ -136,7 +136,7 @@
     {
         "first_name": "Darrick",
         "last_name": "Wadham",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/autemvoluptatemest.jpg?size=200x300&set=set1",
         "description": "Object-based methodical functionalities",
         "type": "Aleut",
@@ -145,7 +145,7 @@
     {
         "first_name": "Umberto",
         "last_name": "Downing",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/reprehenderitautomnis.jpg?size=200x300&set=set1",
         "description": "Universal responsive forecast",
         "type": "Aleut",
@@ -154,7 +154,7 @@
     {
         "first_name": "Morganica",
         "last_name": "Hustings",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/adautqui.jpg?size=200x300&set=set1",
         "description": "Intuitive logistical process improvement",
         "type": "Fijian",
@@ -163,7 +163,7 @@
     {
         "first_name": "Kristy",
         "last_name": "Boldison",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/repellatetrepellendus.jpg?size=200x300&set=set1",
         "description": "Inverse secondary architecture",
         "type": "Costa Rican",
@@ -172,7 +172,7 @@
     {
         "first_name": "Saidee",
         "last_name": "Gabe",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/dolorfacilisipsum.jpg?size=200x300&set=set1",
         "description": "Automated bandwidth-monitored projection",
         "type": "Peruvian",
@@ -181,7 +181,7 @@
     {
         "first_name": "Tulley",
         "last_name": "Gealle",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/saepeilloquam.jpg?size=200x300&set=set1",
         "description": "Mandatory uniform superstructure",
         "type": "Alaskan Athabascan",
@@ -190,7 +190,7 @@
     {
         "first_name": "Sascha",
         "last_name": "Sorensen",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/etlaborenostrum.jpg?size=200x300&set=set1",
         "description": "Organic radical approach",
         "type": "Indonesian",
@@ -199,7 +199,7 @@
     {
         "first_name": "Granger",
         "last_name": "Gerrans",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/quisinventorerecusandae.jpg?size=200x300&set=set1",
         "description": "Seamless optimal projection",
         "type": "Native Hawaiian and Other Pacific Islander (NHPI)",
@@ -208,7 +208,7 @@
     {
         "first_name": "Arlin",
         "last_name": "Shitliff",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/estetexpedita.jpg?size=200x300&set=set1",
         "description": "Configurable global application",
         "type": "Delaware",
@@ -217,7 +217,7 @@
     {
         "first_name": "Kerby",
         "last_name": "Borthram",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/doloresvitaeinventore.jpg?size=200x300&set=set1",
         "description": "Future-proofed local pricing structure",
         "type": "Guamanian",
@@ -226,7 +226,7 @@
     {
         "first_name": "Frederigo",
         "last_name": "Du Hamel",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/essesedrerum.jpg?size=200x300&set=set1",
         "description": "Enterprise-wide 4th generation initiative",
         "type": "Yaqui",
@@ -235,7 +235,7 @@
     {
         "first_name": "Zebulon",
         "last_name": "Druhan",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/utdoloremquevel.jpg?size=200x300&set=set1",
         "description": "Synergized object-oriented emulation",
         "type": "Chilean",
@@ -244,7 +244,7 @@
     {
         "first_name": "Nicolea",
         "last_name": "Asbery",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/aliquamomnisquas.jpg?size=200x300&set=set1",
         "description": "Fundamental 24/7 approach",
         "type": "Micronesian",
@@ -253,7 +253,7 @@
     {
         "first_name": "Ashby",
         "last_name": "Huyhton",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/rationeperspiciatisfacere.jpg?size=200x300&set=set1",
         "description": "Object-based upward-trending task-force",
         "type": "Houma",
@@ -262,7 +262,7 @@
     {
         "first_name": "Dale",
         "last_name": "McLeoid",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/nemoquiaearum.jpg?size=200x300&set=set1",
         "description": "Persevering systemic function",
         "type": "Pima",
@@ -271,7 +271,7 @@
     {
         "first_name": "Marylee",
         "last_name": "Duling",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/sapientequodqui.jpg?size=200x300&set=set1",
         "description": "Sharable encompassing analyzer",
         "type": "Menominee",
@@ -280,7 +280,7 @@
     {
         "first_name": "Darcy",
         "last_name": "Lower",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/dictavoluptatibusassumenda.jpg?size=200x300&set=set1",
         "description": "Re-engineered needs-based attitude",
         "type": "Kiowa",
@@ -289,7 +289,7 @@
     {
         "first_name": "Case",
         "last_name": "Breach",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/voluptatelaborumdignissimos.jpg?size=200x300&set=set1",
         "description": "Switchable systematic utilisation",
         "type": "Iroquois",
@@ -298,7 +298,7 @@
     {
         "first_name": "Jonie",
         "last_name": "Di Batista",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/errordictamolestias.jpg?size=200x300&set=set1",
         "description": "De-engineered incremental open system",
         "type": "Korean",
@@ -307,7 +307,7 @@
     {
         "first_name": "Sada",
         "last_name": "Pretsell",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/isteetvoluptatem.jpg?size=200x300&set=set1",
         "description": "Enterprise-wide incremental definition",
         "type": "Korean",
@@ -316,7 +316,7 @@
     {
         "first_name": "Leeann",
         "last_name": "McCart",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/quasiperferendisaut.jpg?size=200x300&set=set1",
         "description": "Ameliorated transitional hardware",
         "type": "Navajo",
@@ -325,7 +325,7 @@
     {
         "first_name": "Constantine",
         "last_name": "McPhilip",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/hicquiaquia.jpg?size=200x300&set=set1",
         "description": "Re-engineered modular concept",
         "type": "Paiute",
@@ -334,7 +334,7 @@
     {
         "first_name": "Cassandry",
         "last_name": "Haily",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/doloremqueconsequatureos.jpg?size=200x300&set=set1",
         "description": "Balanced next generation customer loyalty",
         "type": "Creek",
@@ -343,7 +343,7 @@
     {
         "first_name": "Regan",
         "last_name": "Allone",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/namomniserror.jpg?size=200x300&set=set1",
         "description": "Triple-buffered static firmware",
         "type": "Vietnamese",
@@ -352,7 +352,7 @@
     {
         "first_name": "Annabell",
         "last_name": "Kleiner",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/undenobisnam.jpg?size=200x300&set=set1",
         "description": "Proactive directional collaboration",
         "type": "Lumbee",
@@ -361,7 +361,7 @@
     {
         "first_name": "Conan",
         "last_name": "Hagan",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/architectomollitianecessitatibus.jpg?size=200x300&set=set1",
         "description": "User-centric responsive Graphical User Interface",
         "type": "Choctaw",
@@ -370,7 +370,7 @@
     {
         "first_name": "Jenelle",
         "last_name": "Stammers",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/fugitporroquisquam.jpg?size=200x300&set=set1",
         "description": "Right-sized grid-enabled extranet",
         "type": "Houma",
@@ -379,7 +379,7 @@
     {
         "first_name": "Diandra",
         "last_name": "Warby",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/temporaquasiest.jpg?size=200x300&set=set1",
         "description": "Profound human-resource moderator",
         "type": "Chilean",
@@ -388,7 +388,7 @@
     {
         "first_name": "Denyse",
         "last_name": "Guppey",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/omnissedsoluta.jpg?size=200x300&set=set1",
         "description": "Object-based interactive adapter",
         "type": "Thai",
@@ -397,7 +397,7 @@
     {
         "first_name": "Celisse",
         "last_name": "Woolmer",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/asperioresquasivoluptatem.jpg?size=200x300&set=set1",
         "description": "Horizontal regional function",
         "type": "Yakama",
@@ -406,7 +406,7 @@
     {
         "first_name": "Annora",
         "last_name": "Mussington",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/impeditestqui.jpg?size=200x300&set=set1",
         "description": "Balanced radical toolset",
         "type": "Nicaraguan",
@@ -415,7 +415,7 @@
     {
         "first_name": "Tuck",
         "last_name": "O'Keevan",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/eosexercitationemsint.jpg?size=200x300&set=set1",
         "description": "Seamless mission-critical extranet",
         "type": "Asian Indian",
@@ -424,7 +424,7 @@
     {
         "first_name": "Benedicto",
         "last_name": "Mabbutt",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/consecteturnequeiusto.jpg?size=200x300&set=set1",
         "description": "Triple-buffered directional budgetary management",
         "type": "Choctaw",
@@ -433,7 +433,7 @@
     {
         "first_name": "Debor",
         "last_name": "O'Keevan",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/quoessedolorem.jpg?size=200x300&set=set1",
         "description": "Re-engineered well-modulated orchestration",
         "type": "Taiwanese",
@@ -442,7 +442,7 @@
     {
         "first_name": "Agnes",
         "last_name": "Thickpenny",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/quovelitab.jpg?size=200x300&set=set1",
         "description": "Public-key systemic workforce",
         "type": "Dominican (Dominican Republic)",
@@ -451,7 +451,7 @@
     {
         "first_name": "Fleming",
         "last_name": "Donnersberg",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/quibusdamquout.jpg?size=200x300&set=set1",
         "description": "Re-engineered upward-trending paradigm",
         "type": "Colville",
@@ -460,7 +460,7 @@
     {
         "first_name": "Tova",
         "last_name": "Chatell",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/nostrumquaeratnihil.jpg?size=200x300&set=set1",
         "description": "Ameliorated context-sensitive architecture",
         "type": "Cheyenne",
@@ -469,7 +469,7 @@
     {
         "first_name": "Gloriana",
         "last_name": "Rosenau",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/eniminventoresequi.jpg?size=200x300&set=set1",
         "description": "Realigned next generation help-desk",
         "type": "Puget Sound Salish",
@@ -478,7 +478,7 @@
     {
         "first_name": "Tammara",
         "last_name": "Hartwright",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/ipsaetanimi.jpg?size=200x300&set=set1",
         "description": "Face to face analyzing productivity",
         "type": "Thai",
@@ -487,7 +487,7 @@
     {
         "first_name": "Florri",
         "last_name": "Arnaldy",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/sedquaeratrepellat.jpg?size=200x300&set=set1",
         "description": "Profit-focused actuating contingency",
         "type": "Yuman",
@@ -496,7 +496,7 @@
     {
         "first_name": "Pippo",
         "last_name": "Viccars",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/autemeosexercitationem.jpg?size=200x300&set=set1",
         "description": "Assimilated national encoding",
         "type": "Lumbee",
@@ -505,7 +505,7 @@
     {
         "first_name": "Corrina",
         "last_name": "Labusch",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/suntquodculpa.jpg?size=200x300&set=set1",
         "description": "Universal contextually-based support",
         "type": "Mexican",
@@ -514,7 +514,7 @@
     {
         "first_name": "Heidi",
         "last_name": "Tregear",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/veritatisessesoluta.jpg?size=200x300&set=set1",
         "description": "Fundamental needs-based functionalities",
         "type": "Guatemalan",
@@ -523,7 +523,7 @@
     {
         "first_name": "Garrik",
         "last_name": "Rispine",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/maioresexercitationemet.jpg?size=200x300&set=set1",
         "description": "Exclusive needs-based framework",
         "type": "Filipino",
@@ -532,7 +532,7 @@
     {
         "first_name": "Hildagarde",
         "last_name": "Laurence",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/etdolorummolestiae.jpg?size=200x300&set=set1",
         "description": "De-engineered static benchmark",
         "type": "Ottawa",
@@ -541,7 +541,7 @@
     {
         "first_name": "Gusella",
         "last_name": "Bruun",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/nullaautvelit.jpg?size=200x300&set=set1",
         "description": "Synchronised cohesive middleware",
         "type": "Native Hawaiian",
@@ -550,7 +550,7 @@
     {
         "first_name": "Ellette",
         "last_name": "Redhead",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/veritatisnatuset.jpg?size=200x300&set=set1",
         "description": "Re-contextualized value-added superstructure",
         "type": "Blackfeet",
@@ -559,7 +559,7 @@
     {
         "first_name": "Lon",
         "last_name": "Gorke",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/doloremsolutadeleniti.jpg?size=200x300&set=set1",
         "description": "Programmable client-driven policy",
         "type": "Kiowa",
@@ -568,7 +568,7 @@
     {
         "first_name": "Nikolaos",
         "last_name": "Hearfield",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/temporibusexplicaboqui.jpg?size=200x300&set=set1",
         "description": "Optional transitional pricing structure",
         "type": "Chamorro",
@@ -577,7 +577,7 @@
     {
         "first_name": "Aland",
         "last_name": "Longland",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/quoscumquepossimus.jpg?size=200x300&set=set1",
         "description": "Phased homogeneous challenge",
         "type": "Shoshone",
@@ -586,7 +586,7 @@
     {
         "first_name": "Ilise",
         "last_name": "Newcom",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/quiarationerepellat.jpg?size=200x300&set=set1",
         "description": "Secured didactic toolset",
         "type": "Cuban",
@@ -595,7 +595,7 @@
     {
         "first_name": "Elihu",
         "last_name": "Orchard",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/doloremomnisnobis.jpg?size=200x300&set=set1",
         "description": "Future-proofed background help-desk",
         "type": "Pueblo",
@@ -604,7 +604,7 @@
     {
         "first_name": "Hanson",
         "last_name": "Waterhouse",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/etconsequaturveniam.jpg?size=200x300&set=set1",
         "description": "Exclusive multi-tasking knowledge user",
         "type": "Choctaw",
@@ -613,7 +613,7 @@
     {
         "first_name": "Trent",
         "last_name": "Lympenie",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/autsedlabore.jpg?size=200x300&set=set1",
         "description": "Operative interactive benchmark",
         "type": "Bangladeshi",
@@ -622,7 +622,7 @@
     {
         "first_name": "Chico",
         "last_name": "Olczyk",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/dolorumaliquidnulla.jpg?size=200x300&set=set1",
         "description": "Organized foreground Graphical User Interface",
         "type": "Colombian",
@@ -631,7 +631,7 @@
     {
         "first_name": "Bail",
         "last_name": "Zoellner",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/totammagniat.jpg?size=200x300&set=set1",
         "description": "Upgradable well-modulated complexity",
         "type": "Thai",
@@ -640,7 +640,7 @@
     {
         "first_name": "Zaria",
         "last_name": "Heugel",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/dictauthic.jpg?size=200x300&set=set1",
         "description": "Multi-layered stable superstructure",
         "type": "Menominee",
@@ -649,7 +649,7 @@
     {
         "first_name": "Karalee",
         "last_name": "Gresly",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/quivoluptatessoluta.jpg?size=200x300&set=set1",
         "description": "Enterprise-wide high-level moderator",
         "type": "Taiwanese",
@@ -658,7 +658,7 @@
     {
         "first_name": "Ezra",
         "last_name": "Jeremaes",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/doloresaliquamsimilique.jpg?size=200x300&set=set1",
         "description": "Down-sized explicit installation",
         "type": "Central American",
@@ -667,7 +667,7 @@
     {
         "first_name": "Wildon",
         "last_name": "Fechnie",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/omniscupiditatesed.jpg?size=200x300&set=set1",
         "description": "Balanced composite throughput",
         "type": "Venezuelan",
@@ -676,7 +676,7 @@
     {
         "first_name": "Nelson",
         "last_name": "Winstone",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/inciduntomnisnam.jpg?size=200x300&set=set1",
         "description": "Centralized logistical hierarchy",
         "type": "Filipino",
@@ -685,7 +685,7 @@
     {
         "first_name": "Mada",
         "last_name": "Kidney",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/veroquiqui.jpg?size=200x300&set=set1",
         "description": "Diverse explicit website",
         "type": "Houma",
@@ -694,7 +694,7 @@
     {
         "first_name": "Raquela",
         "last_name": "Shrubsall",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/cupiditateconsequaturnihil.jpg?size=200x300&set=set1",
         "description": "Visionary responsive strategy",
         "type": "Crow",
@@ -703,7 +703,7 @@
     {
         "first_name": "Robinett",
         "last_name": "Ladson",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/etidvoluptatum.jpg?size=200x300&set=set1",
         "description": "Right-sized 6th generation utilisation",
         "type": "Puerto Rican",
@@ -712,7 +712,7 @@
     {
         "first_name": "Davita",
         "last_name": "Teers",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/possimusmagnamqui.jpg?size=200x300&set=set1",
         "description": "Face to face explicit installation",
         "type": "Samoan",
@@ -721,7 +721,7 @@
     {
         "first_name": "Jerrold",
         "last_name": "Bilbey",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/voluptatesdelenitiprovident.jpg?size=200x300&set=set1",
         "description": "Team-oriented demand-driven moratorium",
         "type": "Micronesian",
@@ -730,7 +730,7 @@
     {
         "first_name": "Deidre",
         "last_name": "Ausher",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/rationemaioreshic.jpg?size=200x300&set=set1",
         "description": "Realigned methodical forecast",
         "type": "Colombian",
@@ -739,7 +739,7 @@
     {
         "first_name": "Estevan",
         "last_name": "Bartalin",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/illoaperiamaut.jpg?size=200x300&set=set1",
         "description": "Enterprise-wide didactic definition",
         "type": "Asian Indian",
@@ -748,7 +748,7 @@
     {
         "first_name": "Kyle",
         "last_name": "Grumbridge",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/necessitatibusquastenetur.jpg?size=200x300&set=set1",
         "description": "Persevering impactful groupware",
         "type": "Malaysian",
@@ -757,7 +757,7 @@
     {
         "first_name": "Gayle",
         "last_name": "Jenkinson",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/velofficiiset.jpg?size=200x300&set=set1",
         "description": "Business-focused actuating standardization",
         "type": "Venezuelan",
@@ -766,7 +766,7 @@
     {
         "first_name": "Rafael",
         "last_name": "Dericot",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/similiqueutqui.jpg?size=200x300&set=set1",
         "description": "Mandatory didactic challenge",
         "type": "Lumbee",
@@ -775,7 +775,7 @@
     {
         "first_name": "Anton",
         "last_name": "Blesdill",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/quiafugitamet.jpg?size=200x300&set=set1",
         "description": "Networked asymmetric migration",
         "type": "Yakama",
@@ -784,7 +784,7 @@
     {
         "first_name": "Tadd",
         "last_name": "Glewe",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/quasiquianulla.jpg?size=200x300&set=set1",
         "description": "Multi-channelled regional protocol",
         "type": "Chinese",
@@ -793,7 +793,7 @@
     {
         "first_name": "Joli",
         "last_name": "Dufoure",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/etquidemducimus.jpg?size=200x300&set=set1",
         "description": "Ameliorated national ability",
         "type": "White",
@@ -802,7 +802,7 @@
     {
         "first_name": "Jasmina",
         "last_name": "Skillington",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/corporisquisiusto.jpg?size=200x300&set=set1",
         "description": "Distributed modular archive",
         "type": "Eskimo",
@@ -811,7 +811,7 @@
     {
         "first_name": "Niccolo",
         "last_name": "Stormonth",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/eaquemagnamquod.jpg?size=200x300&set=set1",
         "description": "Future-proofed stable open system",
         "type": "Korean",
@@ -820,7 +820,7 @@
     {
         "first_name": "Garrard",
         "last_name": "O'Corr",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/culpacorporisea.jpg?size=200x300&set=set1",
         "description": "Pre-emptive optimizing ability",
         "type": "Chamorro",
@@ -829,7 +829,7 @@
     {
         "first_name": "Fay",
         "last_name": "Rait",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/laboriosamsuntautem.jpg?size=200x300&set=set1",
         "description": "Enterprise-wide reciprocal algorithm",
         "type": "Argentinian",
@@ -838,7 +838,7 @@
     {
         "first_name": "Willey",
         "last_name": "Dearan",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/insedullam.jpg?size=200x300&set=set1",
         "description": "Compatible composite artificial intelligence",
         "type": "Venezuelan",
@@ -847,7 +847,7 @@
     {
         "first_name": "Geoffry",
         "last_name": "Leathwood",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/voluptateerrorpraesentium.jpg?size=200x300&set=set1",
         "description": "Exclusive local leverage",
         "type": "Sri Lankan",
@@ -856,7 +856,7 @@
     {
         "first_name": "Leshia",
         "last_name": "Krabbe",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/expeditamaximererum.jpg?size=200x300&set=set1",
         "description": "Front-line encompassing moderator",
         "type": "Bolivian",
@@ -865,7 +865,7 @@
     {
         "first_name": "Ronica",
         "last_name": "Baldam",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/perferendisremillo.jpg?size=200x300&set=set1",
         "description": "Monitored systemic archive",
         "type": "Native Hawaiian and Other Pacific Islander (NHPI)",
@@ -874,7 +874,7 @@
     {
         "first_name": "My",
         "last_name": "Ixor",
-        "gender": "Male",
+        "gender": "male",
         "portrait": "https://robohash.org/doloredelenitinecessitatibus.jpg?size=200x300&set=set1",
         "description": "Re-engineered context-sensitive productivity",
         "type": "Vietnamese",
@@ -883,7 +883,7 @@
     {
         "first_name": "Janene",
         "last_name": "Palffrey",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/sequitemporafugit.jpg?size=200x300&set=set1",
         "description": "Team-oriented methodical circuit",
         "type": "Yaqui",
@@ -892,7 +892,7 @@
     {
         "first_name": "Pippy",
         "last_name": "Heis",
-        "gender": "Female",
+        "gender": "female",
         "portrait": "https://robohash.org/veniamquodrepellendus.jpg?size=200x300&set=set1",
         "description": "Cloned zero tolerance alliance",
         "type": "Peruvian",
